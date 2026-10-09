@@ -1,0 +1,4 @@
+"count"
+8523
+Query
+SELECT COUNT(*) FROM blinkit;
